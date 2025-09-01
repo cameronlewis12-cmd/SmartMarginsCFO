@@ -1,0 +1,5 @@
+node_modules
+.next/cache/images/*
+.DS_Store
+*.log
+.env*
